@@ -70,10 +70,10 @@ googleニュースのRSSにあわせて微調整をしている程度です
 Ver1.1 2021-03-28
 ・ScriptFilterのJSONフォーマットの編集をワンライナーから1行1プロパティーに変更
 
-　修正前の例
+　修正前
 　json=$json'{"title":"'${arry[0]::24}'","subtitle":"'${arry[1]}' - '${pdate[i]:9:4}.${pdate[i]:6:3}.${pdate[i]:4:2}'","arg":"'${link[i]}'"}'
  
- 　修正後の例
+ 　修正後
   json=$json'{"title":"'${arry[0]::24}'",'
   json=$json'"subtitle":"'${arry[1]}' - '${pdate[i]:9:4}.${pdate[i]:6:3}.${pdate[i]:4:2}'",'
   json=$json'"arg":"'${link[i]}'"}'
