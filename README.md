@@ -2,6 +2,9 @@
 [ワークフローのサンプル動画](https://user-images.githubusercontent.com/40127279/125183017-dba03180-e24d-11eb-80c6-f29cb6cb19b4.mp4)
 
 #### 開発メモ
+ワークフロー
+＜br＞<img width="600"  src="https://user-images.githubusercontent.com/40127279/126856776-7d1f59d4-c968-4cd9-b55d-142ce88fcbb4.png">
+
 ### 1.％エンコードしてURLを生成する
 　早速、Googleニュース検索のRSSを手打ちしてみたら日本語の検索がうまくないようです
 <br>　試しにUTF-8で％エンコードしたら問題なく取得できました
@@ -23,6 +26,10 @@
 　こちらもLesson7と同様です
 <br>　上記の分離を受けてtitleに記事のタイトルをsubtitleにニュース発信元をセットしています
 <br>　ちなみにsubtitleは『ニュース発信元 - 発信日』という感じの構成です
+<br>　
+<br>　RunScript
+<br>　<img width="600"  src="https://user-images.githubusercontent.com/40127279/126856795-90e68132-33b7-40fa-a983-e7fef5e1224c.png">
+
 #### 背景
  Lesson7のRSSツールの応用です。大きな違いは検索するワードをパラメータとしてもらうぐらい
 <br> googleニュースの検索用RSSを発見したので作ってみました
