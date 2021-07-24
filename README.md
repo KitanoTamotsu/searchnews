@@ -3,7 +3,7 @@
 
 #### 開発メモ
 ワークフロー
-＜br＞<img width="600"  src="https://user-images.githubusercontent.com/40127279/126856776-7d1f59d4-c968-4cd9-b55d-142ce88fcbb4.png">
+<br><img width="600"  src="https://user-images.githubusercontent.com/40127279/126856776-7d1f59d4-c968-4cd9-b55d-142ce88fcbb4.png">
 
 ### 1.％エンコードしてURLを生成する
 　早速、Googleニュース検索のRSSを手打ちしてみたら日本語の検索がうまくないようです
