@@ -1,4 +1,3 @@
-## 　Lesson8.　RSSニュースを検索する  
 [ワークフローのサンプル動画](https://user-images.githubusercontent.com/40127279/125183017-dba03180-e24d-11eb-80c6-f29cb6cb19b4.mp4)
 
 #### 開発メモ
